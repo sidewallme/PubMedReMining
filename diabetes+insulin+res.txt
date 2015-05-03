@@ -1,0 +1,388 @@
+[requiring/VBG]
+ renal transplantation in patients with insulin requiring diabetes and renal failure [781807]
+ diabetes mellitus requiring insulin is a (relative) contra-indication to the use of glucagon [133938]
+ the aim of this study was to investigate the effects of the intravenous administration of xylitol and sorbitol respectively on plasma insulin and blood glucose in subjects with non-insulin requiring maturity-onset diabetes after an overnight fast [1066338]
+ pathologists have confirmed the specific nature of the insulitis lesion in diabetes requiring insulin [333900]
+ two categories of diabetes are recognized in the temperate zone--ketosis-prone diabetes requiring insulin and diabetes not requiring insulin [574813]
+ it has been found that the relative risk of juvenile onset diabetes requiring insulin treatment is greater for persons who are hla-a1, a2, b8, bw15, bw40, cw3, dw3, dw4, drw3 and drw4 positive [7222846]
+ maturity onset diabetes (mod) and maturity onset diabetes not requiring insulin treatment (mody) are not related to the hla system [7222846]
+ insulin requiring diabetes and/or autoimmune thyroid disease are infrequent [7024719]
+ in contrast, addison's disease in type ii pga is associated with insulin requiring diabetes and/or autoimmune thyroid disease(s) [7024719]
+ forty-seven of 100 legs were saved; 22 of 29 patients suffering from diabetes requiring insulin had to undergo amputation, but only 1 of 18 patients suffering from thromboangiitis obliterans had to have an amputation [7044465]
+ eight patients still drank excessive alcohol; three of them had had recurrent pancreatitis and dyspepsia, and insulin requiring diabetes [4041724]
+ in 8 cases (8%) we found that the mother had diabetes mellitus requiring insulin, the hydramnios being the main pointer towards the metabolic disturbance [3305141]
+ however, beta blockers also have side effects, such as decreased ventricular function in patients with mild heart failure, increased airways resistance in those with chronic obstructive lung disease, increased plasma lipids, in particular low density lipoprotein cholesterol, and increased problems in patients with peripheral vascular disease and those with diabetes requiring insulin treatment [2889349]
+ diabetes requiring primary insulin treatment is presented by unequivocally elevated blood glucose levels and the classic symptoms of the disease [3117580]
+ fifty-four patients with poorly controlled insulin requiring diabetes mellitus were assigned to one of three forms of consultation: (1) routine consultation, (2) a consultation where doctor and patient explicitly negotiated and agreed the nature of the problem(s) to be discussed, (3) consultation as in (2) but doctor and patient negotiated and agreed not only the problems but also their causal attributions for the problems discussed [3355908]
+ categories examined included age, weight, hematocrit, pregnancy, blood pressure, heart disease, diabetes requiring insulin, male homosexual activity since 1977, intravenous drug use, sexual partner of high-risk group member, recent transfusion, history of cancer, and other (medical, surgical, travel history) [3376467]
+ following paradoxical improvement during a full-term pregnancy, there was gradual deterioration of diabetes control requiring insulin therapy [2970081]
+ for perioperative myocardial infarction, only diabetes requiring insulin (p less than 0 [2496672]
+ higher incidence of diabetes mellitus requiring insulin therapy in cyclosporin treated transplant recipients has been reported [2681969]
+8%) patients had diabetes requiring insulin, 825 (66 [2344535]
+0%) had diabetes not requiring insulin, and 153 (12 [2344535]
+ male manual workers and peasant farmers with diabetes not requiring insulin presented at a significantly older age and had a lower body mass index than sedentary office workers [2344535]
+ newly presenting diabetic patients in tanzania with diabetes requiring insulin are older at presentation than those in britain; most diabetic patients present with diabetes not requiring insulin and a smaller proportion of tanzanian patients are obese [2344535]
+8%) had diabetes requiring insulin, 825 (66 [2111723]
+0%) diabetes not requiring insulin, and 153 (12 [2111723]
+ severe diabetic ketoacidosis and infection were responsible for most deaths in patients with diabetes requiring insulin [2111723]
+ cardiovascular and renal causes were responsible for 24% of hospital deaths of patients with diabetes not requiring insulin [2111723]
+ diabetes requiring insulin, young age, and ketonuria at presentation were associated with a significantly worse five year survival on multivariate analysis [2111723]
+ persistent diabetes mellitus requiring insulin occurred in four and systemic hypertension developed in one [1929506]
+ over the last four years, we have done a prospective study of insulin requiring diabetes (ird) [1959482]
+ we conclude that an effective care of gdm-women can be achieved at the primary care level provided frequent self-monitoring of blood glucose is performed for early detection of insulin requiring diabetes [1823638]
+ the crude odds ratio for any major or minor defect and mothers with gestational diabetes requiring insulin was 1 [1397216]
+ to ascertain the annual incidence of diabetes requiring treatment with insulin in children and adolescents aged 0-19 years in dar es salaam, tanzania, during a 10 year period from 1 january 1982 to 31 december 1991 [8329915]
+ three months later he developed diabetes requiring insulin therapy [null]
+ these individuals were classified clinically as having insulin dependent (iddm = 18); non-insulin dependent (niddm = 19) and insulin requiring diabetes (irdm = 19) [null]
+
+[treated/VBN]
+ a study was made of the isolated adipose tissue of 9 healthy women and the adipose tissue from the zone of lipoatrophy obtained from 7 women suffering from diabetes mellitus treated with insulin [1144316]
+ exocrine pancreas of streptozotocin-diabetes rats treated with insulin [134471]
+ the blood serum binding capacity was studied in 20 patients suffering from diabetes mellitus given no insulin and in 67 patients with a severe form of diabetes mellitus treated with insulin [887624]
+ only diabetes treated with insulin has been considered [598563]
+ the proportion of hba1 influenced serum hdl cholesterol concentration negatively in insulin-treated diabetes but not in diabetes treated without insulin [6993051]
+ comparison of rat plasma glycoprotein composition with biochemical activity and morphology of liver golgi apparatus in streptozotocin diabetes treated with insulin [6460671]
+ the concentration of cholesterol in serum high density lipoproteins (hdl) and their subfractions (hdl2 and hdl3) was determined in men and women with type i diabetes treated with insulin and in non-diabetic men and women matched for age, weight and serum cholesterol, but not for triglyceride-rich lipoproteins which were higher in the diabetic patients [7067136]
+ in type ii diabetes treated with insulin a correlation was established between hb ai and other findings, except fasting glycemia [6643647]
+ prevalence of diabetes mellitus treated with insulin and oral hypoglycemic agents in denmark [3545623]
+ c-peptide in diabetes mellitus treated with insulin [3549123]
+ type 1 diabetes is said to be extremely rare in children in india, where diabetes treated with insulin may be due to chronic pancreatic disease or malnutrition [3494431]
+ male sprague-dawley rats, weighing 200-260 g, were divided into the control (c)-group, diabetes mellitus (dm)-group and diabetes mellitus treated with insulin (dmi)-group [3309414]
+59 nmol/mg protein, n = 5), those with streptozotocin-induced diabetes treated with insulin (2 [3133267]
+ it was relatively low among embryos cultured on serum from untreated (16%) or treated with daonil (19%) and rose to 27% among embryos cultured on serum from type ii diabetes treated with insulin [2718143]
+ we report the case of a middle-aged man with a 6-month history of diabetes treated with insulin [2661661]
+ male sprague-dawley rats, weighing 180-210 g, were divided into control (c) group, diabetes mellitus (dm) group, and diabetes mellitus treated with insulin (dmi) group [2751733]
+ fasting concentration of the c peptide in serum was estimated in 150 patients with type 2 diabetes treated with insulin because of the late, true ineffectiveness of the sulphonylurea derivatives [2697867]
+ the effect of cholecystokinin (cck-33) and its fragments, c-terminal octapeptide (cck-8) and c-terminal tetrapeptide (cck-4), on arterial blood pressure and on the function of the isolated rat heart was studied in three groups of animals: normal (c group), rats with streptozotocin-induced diabetes of one month's duration (dm group) and with diabetes treated with insulin (dmi group) [2485904]
+ a control group of patients with type i diabetes treated with insulin underwent the same studies at similar intervals--48 patients before and after 12 months had elapsed, 21 again after 24 months, and 12 again after 42 months [2320063]
+ fetal macrosomia occurs despite nearly normal maternal blood glucose levels in women with diabetes treated with insulin [2195347]
+ for insulin treated, diabetes the ddd method predicted 108 cases as compared to 102 and 125 by chart and medication review [2369973]
+ norrbotten, in order to assess the prevalence of diabetes treated with insulin and oral anti-diabetic agents [2205705]
+ [the effect of streptozotocin-induced diabetes treated with insulin on the metabolism of calcium, magnesium and phosphorus] [2219756]
+ hypoglycaemia is uncommon in maturity onset diabetes treated with insulin, but moderate weight gain usually occurs [2036198]
+ [beneficial effects of added glicazide in patients with type ii diabetes mellitus treated with insulin] [1867120]
+ a 58-year-old man, with primary hemochromatosis, cirrhosis, and diabetes mellitus treated with insulin developed hepatoma [1656753]
+ we describe the case of a 74-year-old woman with a fifteen-year old history of virilism and with a type-ii-diabetes mellitus treated with insulin [1312496]
+ in men, diabetes treated with insulin and diagnosed more than 1 year previously was significantly and positively related to risk (5 cases vs [1500222]
+ we also found an increased risk for specific defect categories among infants of mothers with gestational diabetes treated with insulin [1397216]
+ to clarify the ultrastructural changes in renal proximal tubules causing microalbuminuria in the early stage of diabetic nephropathy, three different groups of rats were prepared: rats with streptozotocin (stz)-induced diabetes given no treatment (dmut; n = 7), rats with stz-induced diabetes treated with insulin (dmt; n = 7), and non-diabetic rats injected with citrate buffer (control; n = 7) [1290323]
+ frequency and symptoms of hypoglycaemia experienced by patients with type 2 diabetes treated with insulin [8485954]
+ this study ascertained the prevalence of severe hypoglycaemia and loss of awareness of hypoglycaemia in patients with type 2 diabetes treated with insulin [8485954]
+ drivers with diabetes treated with insulin are commonly perceived to pose an increased risk of accidents because of their susceptibility to hypoglycaemia [8369694]
+ an international survey studied the licensing policies applied to professional lorry drivers with diabetes treated with insulin [8369694]
+ another patient group in which hypouricaemia was prevalent were those with diabetes mellitus treated with insulin [null]
+
+[is/VBZ]
+ these studies demonstrate that the regulatory factor(s) suppressing serum, 1,25-(oh)2d3 in diabetes is not simply insulin deficiency per se [6759256]
+ islet amyloid in type 2 (non-insulin-dependent) diabetes is related to insulin [6347781]
+ thus insulin resistance in type i diabetes is dependent on insulin concentration [6364337]
+ these results show that impaired insulin sensitivity in type 1 diabetes is dependent on insulin concentration [6376232]
+ the most likely link between obesity and diabetes is tissue insulin resistance [3061759]
+ combined with the relationship between the fatty acid composition of lipids and insulin secretion and action, our findings suggest a common metabolic defect of atherosclerosis and type 2 diabetes which is probably insulin resistance in glucose metabolism [2076525]
+ the main mechanism for glucose intolerance or overt diabetes is related to insulin-resistance [1966250]
+ in the rat, mild diabetes during pregnancy induces decreased insulin secretion in later life, whereas severe diabetes is responsible for insulin resistance [1835433]
+ to determine whether the control of diabetes is different in insulin treated diabetic subjects who work shifts compared with those who do not work shifts and whether control is related to the type of shift worked [1637712]
+ in hong kong chinese, diabetes mellitus is predominantly non-insulin-dependent even in the young [8497435]
+ although most patients initially feel that learning to administer insulin by injection is diabetes' most difficult aspect, altering life-time eating habits to provide ideal nutrition is in actuality more challenging [8321068]
+
+[required/VBD]
+ the frequency of caries was assessed in 33 diabetic children in whom the diabetes required insulin and dietary restriction and had been diagnosed before eruption of the permanent teeth [1060160]
+ changes in glucose tolerance, in secretion of pancreatic hormones and in the islets of the pancreas were investigated after major resection of the pancreas in dogs to elucidate the pathophysiologic features of carbohydrate metabolism and the difference in the amount of insulin required in diabetes after total and partial pancreatectomy [7036771]
+ there were delayed and extremely low responses of pancreatic polypeptide to a test meal, irrespective whether or not her diabetes required treatment with insulin [6357771]
+ ten of the 11 patients with diabetes required insulin for control and one case was able to be controlled by an oral antidiabetic agent [3290040]
+ infants of mothers with gestational diabetes mellitus who required insulin during the third trimester of pregnancy were 20 [2404255]
+ between 1980 and 1987, 45 pregnant women with diabetes mellitus who required insulin therapy were delivered at kagoshima municipal hospital [1890356]
+ sixty percent of the women with gestational diabetes eventually required insulin to control their blood glucose during pregnancy [1916056]
+ octreotide (100 micrograms, subcutaneously, three times daily) and bromocriptine (15 mg orally, daily) rapidly improved clinical signs and symptoms, including diabetes that initially required insulin [1543025]
+ a total of 8% of controls who had gestational diabetes required both insulin and diet, compared with 100% using the pump (p less than 0 [1550166]
+7 pmol per liter in the 7 patients with diabetes who required insulin, 31 [null]
+
+[had/VBD]
+ five siblings of patients with diabetes sound to have chemical diabetes had hyperinsulinism during the ogtt [943938]
+ the subjects with severe diabetes had a flat insulin response curve [354029]
+ a 51-year-old, nonobese man with diabetes mellitus had marked hyperinsulinemia (70 to 120 muu per milliliter; 502 to 860 pmol per liter) and fasting hyperglycemia (140 to 170 mg per 100 ml; 7 [7350438]
+ the five dogs (8 per cent) with overt ketoacidotic diabetes mellitus had relative insulin deficiency [6371957]
+ eleven biopsies showing these characteristics were performed on insulin-dependent patients who had diabetes mellitus from childhood [3579401]
+ at 10 weeks of age, all diabetics had impaired glucose- and carbachol-induced increase in plasma insulin levels, whereas streptozotocin-treated mice without diabetes had plasma insulin responses within the normal range [2533888]
+ all the patients with pancreatic cancer whose diabetes had been diagnosed before the cancer had non-insulin-dependent diabetes; all but one of the control patients with diabetes had the non-insulin-dependent form of the disease [null]
+
+[controlled/VBN]
+ a quarter of the patients had decreased e rosettes: all of these had long-lasting, insulin-dependent, poorly controlled diabetes [316318]
+ insulin therapy controlled the diabetes mellitus [12002574]
+ a 55-year-old woman with a long-standing history of diabetes mellitus controlled with insulin was admitted under the medical unit to the royal sussex county hospital, brighton, on 27 december 1981, with a history of diarrhoea and anorexia of several weeks' duration [3968481]
+ seven patients had diabetes controlled by insulin [3953953]
+ adherence of neutrophils from dogs with type i (insulin-dependent) diabetes mellitus controlled by insulin administration was compared with that from control dogs [3963556]
+ twelve male patients (58 +/- 8 years, mean +/- sd), with at least a 10-year history of diabetes controlled by insulin, and seven age-matched controls (56 +/- 5 years, mean +/- sd) participated in this study [1984243]
+
+[associated/VBN]
+  in diabetes mellitus there were two types of response: a rapid one in chronic insulin deficiency, and secondly, a more gradual one in mild diabetes associated with hyperinsulinaemia [169779]
+ diabetes, associated with hyperinsulinism, seemed more frequent than in a population without steinert's disease [189436]
+ a case is reported of diabetes mellitus associated with insulin resistance, acanthosis nigricans and systemic lupus erythematosus [2994443]
+ we concluded that in our population, diabetes associated with insulin-resistance occurred in over 96% of our pregnant diabetic patients and was associated with an increased prevalence of maternal and neonatal complications [1673935]
+ our finding that partial unfolding of the b-chain exposes an alternative protein surface rationalizes the receptor-binding properties of a series of anomalous insulin analogues, including a mutant insulin associated with diabetes mellitus in man [1961250]
+ paradoxical structure and function in a mutant human insulin associated with diabetes mellitus [8421693]
+
+[using/VBG]
+ a double-blind study of the efficacy of neutral human and porcine insulin in type i diabetes using a glucose-controlled insulin infusion system [6381963]
+ to determine the long-term efficacy of insulin-pump therapy, we analyzed trends in glycosylated hemoglobin concentrations in 127 patients with type i diabetes using insulin pumps for periods ranging from 13 to 47 months [4022079]
+ [treatment of type ii diabetes using homologous intermediate-acting insulin combinations [3301260]
+ [evaluation of insulin sensitivity in diabetes using the euglycemic hyperinsulinemic clamp method] [2102555]
+ the chemistry of insulin is very well characterized because of possible therapeutic interventions in diabetes using insulin derivatives [null]
+
+[causes/VBZ]
+ islet amyloid polypeptide (iapp) has been recently identified as the principal constituent of amyloid deposits in pancreatic islets of patients with type 2 (non-insulin-dependent) diabetes mellitus and causes insulin resistance in some target cells [1641390]
+ insulin treatment of patients with type 2 diabetes causes hyperinsulinaemia and improves glycaemic control [null]
+ while the total or relative deficiency of insulin causes diabetes, the possible disorders due to deficiency of nerve growth factor have not been clearly defined [null]
+ regardless of its physiologic purpose, the high amount of ferritin can explain why iron is preferentially retained in the insulin cell and causes diabetes in diseases of iron overloading [null]
+
+[decreased/VBN]
+ in the duck, subtotal pancreatectomy induces a transient diabetes, with decreased insulin and glucagon basal levels as well as responses to glucose [2565851]
+ diabetes decreased maximal insulin-stimulated (20 mu/ml) glucose transport capacity by 60% (p less than  [2567684]
+ diabetes alone decreased both insulin sensitivity and responsiveness [2675627]
+ dietary treatment ameliorates overt diabetes and decreased insulin secretion to glucose, induced by overeating in impaired glucose tolerant mice [2172133]
+
+[receiving/VBG]
+ in patients with abnormal gtt results or diabetes but not receiving insulin therapy, the correlation between ghb levels and fasting plasma glucose values was significant [762868]
+23 kg) was lower than that of nine infants of mothers with gestational diabetes not receiving insulin or intensive efforts at maintenance of normoglycemia (3 [7007408]
+ no information is available about the possible relationship between plasma free-insulin levels and atherosclerotic vascular disease (asvd) in patients with insulin-dependent type diabetes receiving insulin treatment [1834487]
+ nine patients with type 2 diabetes receiving insulin therapy were treated with acarbose 100 mg thrice daily for 1 week to investigate the effect of acarbose on blood glucose control [8508620]
+
+[are/VBP]
+ it appears that chronic insulin therapy should be reserved for hyperglycemic individuals who are pregnant or who are at or below ideal body weight, for persons with juvenile onset diabetes who are obviously insulin-dependent, and for acutely decompensated diabetics [1246532]
+ we concluded that 1) insulin deficiency is not uncommon in middle-aged insulin-treated diabetic patients whose diabetes has been diagnosed after the age of 30 yr; 2) fasting c-peptide levels contain basically the same information as postglucagon c-peptide levels; and 3) a low bmi, a need for insulin treatment soon after the diagnosis of diabetes, and a long duration of diabetes are predictive of insulin deficiency [2649329]
+ evidence has also been published showing that first degree relatives of patients with type 2 diabetes are insulin resistant when compared to a matched group of relatives of subjects with normal glucose tolerance [1936488]
+ drug therapy with oral hypoglycemic agents and insulin are components of diabetes management regimens that also include diet, exercise/activity, monitoring, and education [1840969]
+
+[reducing/VBG]
+ cyproheptadine and metergoline improve glucose metabolism in chemical diabetes probably by reducing insulin resistance [499287]
+ we conclude that inhibition of intestinal alpha-glucosidases by bay-m-1099 in iddm reduces meal insulin requirements by at least 20% and that such an agent could be useful in the management of diabetes mellitus by reducing hyperinsulinemia [3311550]
+ therefore, pioglitazone is expected to be useful for treating abnormal glucose and lipid metabolism in non-insulin-dependent diabetes mellitus through reducing insulin resistance of the peripheral tissues and liver [2192715]
+ treatment of type ii diabetes aims at reducing insulin resistance [8475635]
+
+[require/VBP]
+ it was concluded that human (semisynthetic) insulin is as effective as porcine insulin in initiating the treatment of patients with non-insulin-dependent diabetes who require insulin therapy [6363896]
+ patients with diabetes mellitus who require insulin appear to be at particular risk for delayed gastric emptying after operation for obstructing peptic ulcer [6484803]
+6 units/kg per day of a mixture of regular and intermediate-acting insulins given twice daily is effective, safe, and reduces the cost of hospitalization in patients with non-insulin-dependent diabetes mellitus who require insulin treatment [3548345]
+ in patients with noninsulin-dependent diabetes who require insulin, control can often be achieved with a single daily injection [1595513]
+
+[requires/VBZ]
+ treatment of type 1 diabetes usually requires insulin and a proper diet [7440876]
+ permanent diabetes requires continued insulin therapy [3547306]
+ treatment of insulin dependent diabetes invariably requires exogenous insulin to control blood glucose [1453601]
+
+[exhibited/VBD]
+ we report on a 26-yr-old patient with an 11-yr history of insulin-dependent diabetes mellitus who exhibited insulin resistance with a requirement of up to 15,000 u of intravenous (i [6094290]
+ a comparison with diabetic subjects showed that insulin-dependent patients (type i diabetes) required no more insulin during cardiopulmonary bypass than normal subjects, whereas patients with type ii diabetes exhibited a marked insulin resistance during the operation and in the immediate postoperative period [3512920]
+ a 31-year-old woman with diabetes mellitus exhibited severe insulin resistance during pregnancy [8469481]
+
+[stimulated/VBD]
+ it is reported on investigations carried through between age at manifestation of a type ii diabetes and stimulated insulin secretion [6383778]
+ the immunoglobulin fractions of serum from patients with spontaneous hyperinsulinaemic hypoglycaemia and others with type 1 diabetes stimulated insulin release both in islet-cell cultures and in vivo in rats [2903375]
+ in conclusion, vascular smooth muscle proliferation is impaired by diabetes and stimulated by insulin treatment [1312491]
+
+[induced/VBN]
+ the metabolism of oleic acid by the perfused rat liver in experimental diabetes induced by antiinsulin serum [723630]
+ these data indicate that the diabetes induced insulin resistance for bgu is at the post-receptor level and due to a decreased maximal capacity (vmax) for glucose uptake, with no change in affinity, or km [1739737]
+ as in rats, fasting and diabetes induced, while insulin repressed, hepatic pepck mrna [1460846]
+
+[following/VBG]
+ 2) these abnormalities appear as secondary in most instances : a) a-cells behave in a normal way in most studies with prediabetics ; b) plasma glucagon concentration is normalized by excellent control of diabetes or following prolonged insulin infusion [376365]
+ reversal of insulin resistance in type 1 diabetes following initiation of insulin treatment [2951129]
+
+[do/VBP, need/VB]
+ patients with asymptomatic diabetes do not need insulin for survival, and, by definition, they do not need it to alleviate symptoms [975761]
+ even the term niddm stirs controversy because of the easily drawn inference that individuals with this form of diabetes do not need insulin treatment [6094129]
+
+[considered/VBN]
+half of non-insulin diabetics and a quarter of those on insulin considered that their diabetes should be managed solely by their general practitioner [6842436]
+ these non-insulin dependent diabetics considered diabetes to be a serious disorder warranting regular care and expressed confidence in the primary care team's ability to provide such care [2556559]
+
+[occur/VBP]
+ the long-term complications of diabetes mellitus occur despite insulin therapy [6744148]
+ various types of diabetes occur when insufficient insulin is produced or when various factors reduce the receptor efficacy [1794261]
+
+[including/VBG]
+ metabolic signs of diabetes mellitus including hypoinsulinemia, hyperglycemia, polydipsia, polyuria, and impaired glucose tolerance were completely normalized by pancreas transplantation irrespective of the surgical technique used [2141661]
+ this article focuses on the pharmacologic agents used in the management of hyperglycemia in the patient with diabetes mellitus, including insulin and sulfonylureas [1586902]
+
+[caused/VBN]
+ it is generally agreed that "diabetes" caused by insulin deficiency and digestion and absorption defects are the result of diffuse pancreatic destruction [995311]
+ successful immunosuppressive therapy in insulin resistant diabetes caused by anti-insulin receptor autoantibodies [833253]
+
+[reduced/VBN]
+ the obese subjects were divided into four groups according to their response to a 100-g oral glucose test: group a, normal glucose tolerance; group b, impaired glucose tolerance; group c, diabetes with increased insulin response; group d, diabetes with reduced insulin response [3522450]
+ further experiments demonstrated that in insulin-resistant states such as postoperative stress and type ii diabetes, reduced muscular insulin sensitivity was increased and partly restored by continuous low-dose infusion of synthetic bradykinin [1697362]
+
+[is/VBZ, characterized/VBN]
+ type i diabetes is characterized by insulin resistance not only with regard to glucose, but also to lipid and amino acid metabolism [3517029]
+ type i diabetes is characterized by insulin insufficiency due to lack of functional beta cells [1457899]
+
+[found/VBN]
+ this hypothesis provides an explanation for the "normal" basal plasma-insulin concentrations found in diabetes in spite of impaired beta-cell function [73696]
+ their contact with circulating blood makes them an ideal cell for production of proteins to correct systemic conditions such as the insulin deficiency found in diabetes mellitus [1958465]
+
+[demanding/VBG]
+ abdominal obesity, determined by the waist/hip ratio, was associated with cardiovascular disease, premature death and non-insulin demanding diabetes mellitus [2024293]
+ on the other hand, the total fat mass (measured as body mass index) was positively associated only with non-insulin demanding diabetes mellitus [2024293]
+
+[reverse/VB]
+ these observations demonstrate that islet tissue implanted in the peritoneal cavities of diabetic rats receiving immunosuppressive chronic corticosteroid therapy can respond with a rapid and sufficient release of insulin to reverse diabetes as documented by normal glucose levels under stimulated and nonstimulated conditions [124486]
+ this study has determined whether orthovanadate, like insulin, can reverse diabetes-induced changes in the biliary excretion of endogenous bile acids and in the hepatobiliary clearance of rose bengal [null]
+
+[needed/VBD]
+ some patients with recently diagnosed insulin dependent diabetes needed no further insulin therapy as long as cyclosporine was administered [2190313]
+ eleven cases developed diabetes mellitus which needed insulin injection after distal pancreatectomy excluding three patients with glucose intolerance before operation [8272063]
+
+[according/VBG]
+ an assessment of the new nih diagnostic criteria for diabetes mellitus according to insulin response in a 75 g oral glucose tolerance test and levels of hemoglobin aic [6759357]
+ since type i diabetes can have a non-insulin-dependent phase (pre-type i diabetes and/or honeymoon) the differentiation of two main types of diabetes according to insulin-dependency is not absolute [3146849]
+
+[have/VBP]
+ we conclude that prediabetic persons, who would be expected to be more numerous in kindreds with progressively stronger family histories of diabetes, have hyperinsulinemia [3054549]
+ we conclude that sc rhigf-i can reduce blood glucose effectively in selected patients with the type a phenotype of severe insulin resistance who have diabetes mellitus [null]
+
+[prevented/VBD]
+ in contrast, adrenalectomy or insulin administration prevented the diabetes and elevations of circulating dbh [6444670]
+5 units (u) of neutral protamine hagedorn (nph) insulin/day/partially prevented diabetes-induced decreases in the pe contractures while completely preventing them in the k-contractures [7003664]
+
+[complicating/VBG]
+ hypoglycemia and endogenous hyperinsulinism complicating diabetes mellitus [1200040]
+ hyperinsulinism complicating control of diabetes mellitus by an artificial beta-cell [6993140]
+
+[control/VB]
+ factors associated with a decreased risk of berry aneurysms included treatment with insulin to control diabetes mellitus (p less than 0 [4014270]
+ trials in patients requiring insulin to control their diabetes demonstrated that acarbose significantly reduced postprandial blood glucose concentrations, resulting in a smoother diurnal blood glucose-time curve and improved symptoms associated with nocturnal hypoglycaemia [3286212]
+
+[were/VBD, treated/VBN]
+ in this study, all the animals with aloxanic diabetes were treated with insulin [749851]
+ all animals with diabetes were treated with insulin [2722130]
+
+[accompanied/VBN]
+ hyperlabile diabetes accompanied by insulin resistance [7023752]
+ acanthosis nigricans and hyperandrogenism have been associated with diabetes mellitus accompanied by insulin resistance [8469481]
+
+[were/VBD, taking/VBG]
+ doubling of the visual angle was more common in women with older-onset diabetes and in persons with younger-onset and older-onset diabetes who were taking insulin and who had higher glycosylated hemoglobin or proteinuria levels [null]
+ smoking was associated with visual loss in persons with younger-onset diabetes, and systolic blood pressure was associated in persons with older-onset diabetes who were taking insulin [null]
+
+[mean/VB]
+ there was no significant differences between diabetic patients with and without impaired mobility with regards to age, duration of diabetes, mean daily insulin dose, or overall diabetic control as assessed by the measurement of glycosylated haemoglobin (hba1c) [6608923]
+ there were no significant differences between patients with coeliac disease and diabetes and diabetic patients with normal iga antigliadin antibodies in any of the nutritional variables measured, duration of diabetes, and mean insulin requirement [2031607]
+
+[reversed/VBD]
+ insulin treatment reversed the diabetes-related changes in monoamine concentrations in most of the nuclei [2438007]
+ insulin treatment reversed diabetes-related changes in nuclease digestion kinetics [1539030]
+
+[suffering/VBG]
+ the changes in the content of sth and ffa in the blood and of catecholamines in the urine under the effect of insulin hypoglycemia were studied in 28 insulin-sensitive and 40 insulin-resistant patients suffering from diabetes mellitus [724670]
+ reduction of the ffa and catecholamine reserves in the insulin-resistant patients suffering from diabetes mellitus is postulated to be one of the main factors in the resistance pathogenesis [724670]
+
+[developed/VBD]
+ ljm occurred in 60 of the 82 diabetic subjects (73%) receiving insulin therapy who developed diabetes after the age of 35 years [3947142]
+ 1) immediately after resection of more than 84% of the fibrotic pancreas, diabetes developed, and insulin and glucagon secretion decreased, accompanied with marked degeneration of b, a and d cells in the islets [3283522]
+
+[attending/VBG]
+ of insulin-treated patients attending the diabetes clinic, 3 [3883109]
+ urinary albumin excretion was compared in 32 maoris, 34 pacific island polynesians and 66 subjects of european origin with non-insulin-dependent diabetes attending a diabetes clinic in wellington, new zealand [2298119]
+
+[depends/VBZ]
+ to determine whether suppression of gp in diabetes depends on portal insulin levels, we performed 3-h glucose and specific activity clamps in moderately hyperglycemic (10 mm) depancreatized dogs, using three protocols: (a) 54 pmol [1430203]
+
+[occurred/VBD]
+ treatment was with insulin in 5 (onset 17-29 years), tablets in 3 (onset 32-70 years), and in one diabetes occurred before the insulin era [3308604]
+
+[involve/VB]
+ as well, genetic defects that give rise to diabetes mellitus may involve insulin-dependent reactions or, as a theoretical consideration, be independent of hormonal actions [13967777]
+
+[affects/VBZ]
+ our previous study showed that syrian hamsters recover from streptozotocin (sz)-induced diabetes spontaneously and that insulin therapy adversely affects diabetes [1724260]
+
+[classified/VBN]
+ in conclusion, in middle-aged patients with newly diagnosed diabetes mellitus classified as non-insulin-dependent, diabetic symptoms at diagnosis did not predict the 5-year outcome of the patients in terms of metabolic control or cardiovascular events [1588265]
+
+[manage/VB]
+ patients on insulin only reported parents and/or siblings with diabetes less often than did patients using insulin and oral agents, some insulin, or never any insulin to manage their diabetes [2976768]
+
+[delay/VB]
+ it can be induced by as disparate means as tuberculin antigen administration, by interleukin-4 treatments, by transfer of t-cell lines generated in autologous mixed lymphocyte responses, and by immunization to insulin b-chain, whereas oral islet cell antigens, such as insulin, can delay diabetes onset in the nod mouse [8100786]
+
+[have/VBP, decreased/VBN]
+ in contrast, women with normal glucose tolerance before conception who develop gestational diabetes have significant decreased insulin sensitivity relative to women in a control group [null]
+
+[being/VBG, misclassified/VBN]
+ cn overestimated type i diabetes, 37% of type ii diabetes being misclassified because insulin-treated [1451336]
+
+[induce/VB]
+ some viruses and viral proteins suppress the regulatory region of the insulin gene and induce diabetes symptoms [2290417]
+
+[starting/VBG]
+ in order to further investigate the behaviour of high density lipoproteins in diabetes mellitus, we studied hdl subclasses, hdl2 and hdl3, in 10 patients with newly detected, untreated insulin-deficient diabetes before starting insulin treatment and after getting a good metabolic control [6365116]
+
+[leading/VBG]
+ obesity has been associated with numerous metabolic complications, such as changes in the concentration and/or composition of plasma lipoproteins, glucose intolerance and hyperinsulinemia leading to diabetes and hypertension [3293359]
+
+[was/VBD, studied/VBN]
+ the contribution of the gastric fundus to the hyperglucagonemia of poorly controlled diabetes was studied in insulin-deprived alloxan-diabetic dogs by simultaneously measuring plasma glucagon in the venous effluents of the fundus and the pancreas, and the inferior vena cavae plasma [870572]
+
+[normalized/VBD]
+ both high and low doses of protamine zinc insulin normalized diabetes-induced reductions in 5-hydroxyindole-3-acetic acid [5-hiaa; the principal metabolite of 5-hydroxytryptamine (5-ht)] and 5-ht turnover (5-hiaa/5-ht), despite the failure of the low-dose regimen to normalize plasma glucose [null]
+
+[contribute/VBP]
+ from the basal plasma insulin and glucose concentrations, the model provides an estimate of the degree to which both beta cell deficiency and insulin resistance contribute to diabetes [386029]
+
+[show/VBP]
+ cultured retinal pigment epithelium cells from donors with type i diabetes show an altered insulin response [1917388]
+
+[occurs/VBZ]
+ mobilization of these proinsulin-enriched granules may explain the relative hypersecretion of proinsulin that occurs with diabetes [8420818]
+
+[lowers/VBZ]
+ high-fiber intake provides well-established benefits for persons with diabetes: it lowers insulin requirements, provides better control of blood glucose, and reduces serum lipids [2996944]
+
+[causing/VBG]
+ a structurally abnormal insulin causing human diabetes [381941]
+
+[predisposes/VBZ]
+ treatment with neutral protamine hagedorn (nph) insulin predisposes individuals with diabetes to anaphylactoid reactions when given bolus protamine for heparin reversal during cardiovascular procedures [2337121]
+
+[lowered/VBN]
+ the concentration of glucose 6-phosphate was increased by insulin and lowered by alloxan-diabetes and adrenaline [5968539]
+
+[averaged/VBD]
+ regardless of the metabolic control and duration of diabetes, averaged daily insulin requirements increased twofold from earlier in pregnancy [3902039]
+
+[based/VBN]
+ patients were defined as having type 1 or type 2 diabetes based upon early insulin requirement and c-peptide levels [1511573]
+
+[remained/VBD, regulated/VBN]
+ her insulin resistance remitted spontaneously and over the next 18 months' observation, her diabetes remained regulated without insulin therapy [436798]
+
+[fluctuating/VBG]
+ the db/db mouse provides a good model for type 2 diabetes and for fluctuating insulin and glucagon ratios [2407941]
+
+[owing/VBG]
+ errors were greater the lower the turnover rate, and were greatest in patients with diabetes, owing to insulin resistance [2169367]
+
+[correlates/VBZ]
+ blood pressure at diagnosis of type 2 diabetes correlates with plasma insulin concentration but not during the next 5 years [3899461]
+
+[requiring/VBG, had/VBD]
+ however, patients who progressed to diabetes requiring insulin had insulin responses that were subnormal or below the control mean [1247351]
+
+[was/VBD, associated/VBN]
+ this spontaneous recovery from diabetes was associated with hyperinsulinaemia in the fed state [143387]
+
+[did/VBD, develop/VB]
+ diabetes developed almost exclusively from low insulin responders in 253 non- or mildly obese subjects, while in 35 severely obese subjects a certain number of 'normal or high' insulin responders did develop diabetes [6393431]
+
+[was/VBD, required/VBN]
+ insulin was required for diabetes control in 14% of cases [2519161]
+
+[indicated/VBD]
+ oral glucose-tolerance tests with plasma-insulin measurement indicated asymptomatic diabetes mellitus in the majority of patients [1112229]
+
+[resulted/VBD]
+ a high proteolytic activity of the blood in decompensated diabetes mellitus resulted in insulin inactivation [3906639]
+
+[influence/VB]
+ as gip is known to potentiate glucose-induced insulin secretion and possibly the biosynthesis of insulin, the low ir-gip responses in subjects with type i diabetes may
