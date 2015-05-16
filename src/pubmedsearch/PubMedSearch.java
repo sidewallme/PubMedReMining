@@ -94,6 +94,7 @@ public class PubMedSearch {
             val = tagging(tagger,sentences);
             wr2.println(val);
             
+            //mining relationship "key" from raw data
             key = sentenceMining(val);
             if(key.size()>0){
                 updateRelationSet(key, line+" ["+idline+"]");
