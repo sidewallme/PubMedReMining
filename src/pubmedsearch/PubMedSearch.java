@@ -54,8 +54,8 @@ public class PubMedSearch {
         
         String modelfile = "english-bidirectional-distsim.tagger";
         
-        String absfile = entity1+"+"+entity2+"+"+"abs.txt";
-        String idsfile = entity1+"+"+entity2+"+"+"ids.txt";
+        String absfile = "LING+"+entity1+"+"+entity2+"+"+"abs.txt";
+        String idsfile = "LING+"entity1+"+"+entity2+"+"+"ids.txt";
         
         
         query(entity1, entity2);
